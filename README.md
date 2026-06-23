@@ -56,3 +56,10 @@ lib/
 - Layered Architecture (UI → Service → DAO → DB)
 - Exception handling
 - try-with-resources
+
+## Further Improvements
+- Add a GUI using a user friendy interface using JavaFX of Swing
+- Expose the application as a REST API using Spring Boot
+- Implement Authentication and a role based access
+- Add search, filtering, and sorting for employee records.
+- Export employee data to CSV or Excel.
